@@ -1,0 +1,64 @@
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\appsettings.Development.json
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\appsettings.json
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.exe
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.deps.json
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.runtimeconfig.json
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.dll
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.pdb
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.csproj.AssemblyReference.cache
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.AssemblyInfoInputs.cache
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.AssemblyInfo.cs
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.csproj.CoreCompileInputs.cache
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.MyWebApI.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebApI.API.props
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApI.API.props
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebApI.API.props
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\scopedcss\bundle\MyWebApI.API.styles.css
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.csproj.CopyComplete
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.dll
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\refint\MyWebApI.API.dll
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.pdb
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.genruntimeconfig.cache
+D:\C# PROJECTS\MyWebApI\MyWebApI.API\obj\Debug\net8.0\ref\MyWebApI.API.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\appsettings.Development.json
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\appsettings.json
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.exe
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.deps.json
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.runtimeconfig.json
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\MyWebApI.API.pdb
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.csproj.AssemblyReference.cache
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.AssemblyInfoInputs.cache
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.AssemblyInfo.cs
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.csproj.CoreCompileInputs.cache
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.MvcApplicationPartsAssemblyInfo.cs
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.MvcApplicationPartsAssemblyInfo.cache
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.MyWebApI.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.build.MyWebApI.API.props
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MyWebApI.API.props
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MyWebApI.API.props
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\scopedcss\bundle\MyWebApI.API.styles.css
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.csproj.CopyComplete
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\refint\MyWebApI.API.dll
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.pdb
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\MyWebApI.API.genruntimeconfig.cache
+D:\DOT NET CORE\DAY 1\MyWebApI\MyWebApI.API\obj\Debug\net8.0\ref\MyWebApI.API.dll
